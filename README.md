@@ -30,4 +30,4 @@ I'm Vinícius Silva, I'm a Front End Programmer, I'm currently learning and crea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussillva98)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=viniciussillva98-github-username)
+
