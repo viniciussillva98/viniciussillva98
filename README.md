@@ -21,3 +21,13 @@ I'm Vinícius Silva, I'm a Front End Programmer, I'm currently learning and crea
 <br>
 ## Connect with me:
 <a href="https://www.instagram.com/viniciussillva_98"/><img width="30px" src="https://cdn-icons-png.flaticon.com/512/87/87390.png"><a>
+<br>
+<br>
+<br>
+[![Vinícius stats](https://github-readme-stats.vercel.app/api?username=viniciussillva98)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussillva98)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+![](https://komarev.com/ghpvc/?username=viniciussillva98-github-username)
