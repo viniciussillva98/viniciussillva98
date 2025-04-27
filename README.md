@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Eu sou o Vinícius Silva, sou um Programador Front End, atualmente estou aprendendo e criando projetos HTML, CSS e iniciando o aprendizado de JavaScript e React. 
+Eu sou o Vinícius Silva, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
+HTML
+CSS
+Também estou iniciando o aprendizado de:
+JavaScript 
+React
