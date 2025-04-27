@@ -20,4 +20,4 @@ I'm Vinícius Silva, I'm a Front End Programmer, I'm currently learning and crea
 <br>
 <br>
 ## Connect with me:
-<img src="
+<a href="https://www.instagram.com/viniciussillva_98/><img width="30px" src="https://cdn-icons-png.flaticon.com/512/87/87390.png"><a>
