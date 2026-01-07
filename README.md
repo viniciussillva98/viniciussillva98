@@ -1,4 +1,4 @@
-## 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
+##  Olá! Seja bem-vindo(a) ao meu GitHub!
 💻 Desenvolvedor em formação <br />
 Meu nome é Vinícius Silva, sou programador **Full Stack** em formação no DevClub
 
